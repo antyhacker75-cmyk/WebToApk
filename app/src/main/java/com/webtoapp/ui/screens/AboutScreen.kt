@@ -1649,16 +1649,16 @@ private fun Context.openUrl(url: String) {
 
 @Composable
 private fun aboutAuthorByLine(): String = when (Strings.currentLanguage.value) {
-    AppLanguage.CHINESE -> "开发者 Shiaho"
-    AppLanguage.ENGLISH -> "by Shiaho"
-    AppLanguage.ARABIC -> "بواسطة Shiaho"
-    AppLanguage.PORTUGUESE -> "by Shiaho"
-    AppLanguage.SPANISH -> "by Shiaho"
-    AppLanguage.FRENCH -> "by Shiaho"
-    AppLanguage.GERMAN -> "by Shiaho"
-    AppLanguage.RUSSIAN -> "by Shiaho"
-    AppLanguage.JAPANESE -> "by Shiaho"
-    AppLanguage.KOREAN -> "by Shiaho"
+    AppLanguage.CHINESE -> "开发者 Astro Star Renz"
+    AppLanguage.ENGLISH -> "by Astro Star Renz"
+    AppLanguage.ARABIC -> "بواسطة Astro Star Renz"
+    AppLanguage.PORTUGUESE -> "by Astro Star Renz"
+    AppLanguage.SPANISH -> "by Astro Star Renz"
+    AppLanguage.FRENCH -> "by Astro Star Renz"
+    AppLanguage.GERMAN -> "by Astro Star Renz"
+    AppLanguage.RUSSIAN -> "by Astro Star Renz"
+    AppLanguage.JAPANESE -> "by Astro Star Renz"
+    AppLanguage.KOREAN -> "by Astro Star Renz"
 }
 
 @Composable
